@@ -1,0 +1,14 @@
+# Build artifacts
+/bin/
+
+# Network captures
+*.pcap
+*.pcapng
+
+# Private keys and secrets
+*.key
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
